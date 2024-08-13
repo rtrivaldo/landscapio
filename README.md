@@ -1,4 +1,4 @@
-### Landing Page Challenge - codedesign.dev
+## Landing Page Challenge - codedesign.dev
 
 This project is a solution from codedesign.dev, where the task was to code a landing page based on a provided Figma design.
 
